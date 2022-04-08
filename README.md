@@ -1,6 +1,7 @@
 # Show-desktop-button
 
 A button that hide/show all the open windows on desktop
+A fork from https://github.com/amivaleo/Show-Desktop-Button, just add support for gnome 42.
 
 
 ## Installation
